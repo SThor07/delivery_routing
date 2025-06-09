@@ -1,4 +1,4 @@
-# Brooklyn Vehicle Routing Problem (VRP) 🗺️🚚
+# Brooklyn Vehicle Routing Problem (VRP)
 
 This project solves and visualizes a real-world Vehicle Routing Problem for Brooklyn, NYC.  
 We use official NYC taxi zone data, optimize delivery routes with Google OR-Tools, and visualize them on actual Brooklyn streets using OSMNX.
@@ -8,7 +8,7 @@ We use official NYC taxi zone data, optimize delivery routes with Google OR-Tool
 ## 📦 Files
 
 - `nyc_delivery_routing.ipynb` — Main Python notebook (all code and explanation)
-- `nyc_taxi_zone_centroids.csv` — Centroid locations for all NYC taxi zones
+- `nyc_taxi_zone_centroid.csv` — Centroid locations for all NYC taxi zones
 - `brooklyn_vrp_roads.png` — Static map image of the optimized truck routes
 
 ---
@@ -42,4 +42,4 @@ We use official NYC taxi zone data, optimize delivery routes with Google OR-Tool
 
 ---
 
-**Made with ❤️ in NYC.**
+**Made with ❤️**
